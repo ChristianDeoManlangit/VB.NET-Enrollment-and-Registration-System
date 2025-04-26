@@ -1,0 +1,21 @@
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\bin\Debug\net8.0-windows\ERS_GROUP 7.exe
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\bin\Debug\net8.0-windows\ERS_GROUP 7.deps.json
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\bin\Debug\net8.0-windows\ERS_GROUP 7.runtimeconfig.json
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\bin\Debug\net8.0-windows\ERS_GROUP 7.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\bin\Debug\net8.0-windows\ERS_GROUP 7.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP_7.Form1.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP_7.Resources.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.vbproj.GenerateResource.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.AssemblyInfoInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.AssemblyInfo.vb
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.vbproj.CoreCompileInputs.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\refint\ERS_GROUP 7.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.pdb
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP 7.genruntimeconfig.cache
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ref\ERS_GROUP 7.dll
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP_7.Form2.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP_7.Form3.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP_7.Form4.resources
+C:\Users\TO GOD BE THE GLORY\source\repos\ERS_GROUP 7\ERS_GROUP 7\obj\Debug\net8.0-windows\ERS_GROUP_7.Form5.resources
